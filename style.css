@@ -34,13 +34,14 @@ body {
 }
 
 .navbar__item-link:hover {
-  text-decoration: underline;
   cursor: pointer;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 4px;
 }
 
 .content {
-  position: absolute;
-  margin: 30px 43px;
+  margin: 30px auto;
+  width: 940px;
 
   font-family: ArialMT, sans-serif;
   font-size: 20px;
