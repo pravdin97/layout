@@ -7,9 +7,9 @@ body {
   top: 0;
   left: 0;
   background-color: #384B42;
-  min-width: 1024px;
   height: 100px;
-  min-height: 100px;
+  width: 940px;
+  margin: 0 auto;
 }
 
 .nav {
